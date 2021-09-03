@@ -12,5 +12,12 @@ console.log(lengthoffullname);
 
 var one = 13;
 var two = 2;
-var one =one - two;
-console.log(one);
+var sub =one - two;
+console.log(sub);
+var add =one + two;
+console.log(add);
+var mul =one * two;
+console.log(mul);
+var div =one / two;
+console.log(div);
+
